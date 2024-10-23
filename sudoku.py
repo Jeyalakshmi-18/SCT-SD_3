@@ -48,7 +48,6 @@ def solve_sudoku(grid):
 
 
 if __name__ == "__main__":
-    # 0 represents empty cells
     sudoku_grid = [
         [5, 3, 0, 0, 7, 0, 0, 0, 0],
         [6, 0, 0, 1, 9, 5, 0, 0, 0],
